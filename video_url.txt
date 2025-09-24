@@ -1,0 +1,5 @@
+Player URL:
+https://jhonbuttler.github.io/player/?list=https://raw.githubusercontent.com/jhonbuttler/8307caf84b70aca6/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/jhonbuttler/8307caf84b70aca6/refs/heads/master/github_master.m3u8
